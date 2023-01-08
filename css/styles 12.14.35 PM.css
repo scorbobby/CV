@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+		
+body {
+	background-color: #8DC3CE;
+}
+
+h1 {
+	color: darkslateblue;
+}
+
+h2 {
+	color: crimson;
+}
+
+h3 {
+	color:darkblue;
+}
+
+h4 {
+	color:darkblue;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: blue;
+	border-width: 12px;
+	width: 9%;
+}
+	
+	
